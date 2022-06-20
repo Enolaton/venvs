@@ -1,2 +1,5 @@
 # 프로젝트 제외 경로
-/mysite/
+.idea
+db.sqlite3
+*.pyc
+__pycache__
